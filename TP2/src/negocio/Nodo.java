@@ -1,4 +1,4 @@
-package CaminoMinimo;
+package negocio;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -25,7 +25,8 @@ public class Nodo
         _id = id;
     }
 
-	public int getId() {
+	public int getId()
+	{
 		return _id;
 	}
 
@@ -39,7 +40,8 @@ public class Nodo
 		return _caminoMasCorto;
 	}
 
-	public void setCaminoMasCorto(LinkedList<Integer> caminoMasCorto) {
+	public void setCaminoMasCorto(LinkedList<Integer> caminoMasCorto) 
+	{
 		_caminoMasCorto = caminoMasCorto;
 	}
 

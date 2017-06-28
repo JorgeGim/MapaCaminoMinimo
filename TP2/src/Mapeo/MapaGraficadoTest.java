@@ -1,10 +1,12 @@
 package Mapeo;
 
 import java.util.LinkedList;
-import CaminoMinimo.*;
+
 import static org.junit.Assert.*;
 
 import org.junit.Test;
+
+import negocio.*;
 
 public class MapaGraficadoTest {
 	

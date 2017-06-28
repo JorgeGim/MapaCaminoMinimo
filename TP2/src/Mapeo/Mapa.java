@@ -6,7 +6,7 @@ import java.util.LinkedList;
 
 import org.openstreetmap.gui.jmapviewer.Coordinate;
 
-import CaminoMinimo.*;
+import negocio.*;
 
 public class Mapa {
 	

@@ -1,4 +1,4 @@
-package CaminoMinimo;
+package negocio;
 
 import java.util.HashSet;
 import java.util.LinkedList;

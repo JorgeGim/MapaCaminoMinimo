@@ -1,4 +1,4 @@
-package Interface;
+package interfaz;
 
 import java.awt.Color;
 import java.awt.event.ActionEvent;
@@ -12,7 +12,8 @@ import javax.swing.JLabel;
 import javax.swing.JRadioButton;
 import javax.swing.JTextField;
 import javax.swing.plaf.basic.BasicInternalFrameUI;
-import CaminoMinimo.Grafo;
+
+import negocio.Grafo;
 
 public class Busqueda {
 	

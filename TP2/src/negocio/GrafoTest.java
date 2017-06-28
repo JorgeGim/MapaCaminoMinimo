@@ -1,4 +1,4 @@
-package CaminoMinimo;
+package negocio;
 
 import static org.junit.Assert.*;
 
